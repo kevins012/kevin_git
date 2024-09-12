@@ -1,4 +1,0 @@
-This is the first my github lesson
--PHP
--Javascript
--Laravel
